@@ -1,0 +1,85 @@
+.floatright{
+    float:right;
+}
+
+.floatleft{
+    float:left;
+}
+
+body{
+    margin: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+html{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+img{
+    border: rgb(77, 55, 30);
+    border-style: ridge;
+    border-width: 5px;
+}
+
+li{
+    font-size: 80%;
+}
+
+li a:hover{
+    font-size: 105%;
+}
+
+nav{
+    background-color: blueviolet;
+    font-size: 200%;
+    margin: 0;
+    height: 50px;
+    text-align: center;
+    padding-bottom: 1.5rem;
+    min-width: 24rem;
+}
+
+nav a{
+    padding: 10px;
+    color: white;
+}
+nav a:hover{
+    font-size: 105%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    min-width: 24rem;
+    text-align: center;
+  }
+
+  .padtext{
+      padding: 2rem;
+  }
+
+  .bold{
+      font-weight: bold;
+  }
+
+  .biglink{
+      font-weight: bold;
+      font-size: 120%;
+  }
+
+  .players{
+      float: right;
+      width: 40%;
+      min-width: 20rem;
+      padding-left: 10%;
+  }
+
+  
